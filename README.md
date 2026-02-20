@@ -1,7 +1,7 @@
 # 🛍️ ShopZone – E-Commerce Single Page Application
 
 
-👉 Live URL: 
+👉 Live URL: https://shop-zone-sage.vercel.app/
 
 📸 Screenshot
 ![ShopZone](Screenshot.png)
